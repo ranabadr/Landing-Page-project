@@ -17,4 +17,4 @@ A **Landing page** with a collapsable navigation bar.
 
 ## Languages
 
-**HTML**, **CSS** and **Javascript** have been used to create this progect.
+**HTML**, **CSS** and **Javascript** have been used to create this project.
